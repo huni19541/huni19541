@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![huni19541's GitHub stats](https://github-readme-stats.vercel.app/api?username=huni19541&show_icons=true&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=huni19541)](https://solved.ac/huni19541)
